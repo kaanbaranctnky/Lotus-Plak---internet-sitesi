@@ -1,0 +1,27 @@
+.bsb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 90px;
+    margin: 40px;
+}
+.fa{
+    margin-left: 590px;
+}
+.iletisim{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin: 40px; 
+}
+.iletisim a {
+    text-decoration: none;
+    color: rgba(9,10,17,.8);
+}
+
+.iletisim a:hover {
+    text-decoration: none;
+    color: rgba(9,10,17,.8);
+}
